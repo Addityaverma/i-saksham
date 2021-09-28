@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[86]:
-
-
 import re
 import regex
 import pandas as pd
